@@ -23,7 +23,7 @@
 
 ## About
 
-EC IoT Club is a student-led technical community at :contentReference[oaicite:0]{index=0} dedicated to applied engineering across embedded systems, connected devices, intelligent automation, and modern electronics.
+Ec IoT Club is a student-led technical community at IIT (ISM) Dhanbad dedicated to applied engineering across embedded systems, connected devices, intelligent automation, and modern electronics.
 
 We operate at the intersection of hardware and software—where ideas become deployable systems.
 
